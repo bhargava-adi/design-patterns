@@ -1,0 +1,7 @@
+Editor: Eclipse
+Java Version: 11.0.15
+
+Steps to import project and execute:
+1. Pull the repository on your local system.
+2. Import the project in eclipse as "Projects From Folder o Archive".
+3. Go to Main Class and Run as Java Application.
